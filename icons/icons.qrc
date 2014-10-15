@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>ana_pencere.png</file>
+    <file>cihaz_test.png</file>
+    <file>credit_card.png</file>
+    <file>deneme.png</file>
+    <file>ekle.png</file>
+    <file>genel_rapor.png</file>
+    <file>kapat.png</file>
+    <file>kart_tanimla.png</file>
+    <file>kisi_ara.png</file>
+    <file>kisi_ekle.png</file>
+    <file>kisi_sil.png</file>
+    <file>kisisel_rapor.png</file>
+  </qresource>
+</RCC>
