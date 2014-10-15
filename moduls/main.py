@@ -13,7 +13,7 @@ from PyQt4.QtGui import QMessageBox
 import serial
 import serial.tools.list_ports
 
-PORT=''
+PORT = ''
 
 
 class PortSecTest(QDialog, Ui_CihazTest):
